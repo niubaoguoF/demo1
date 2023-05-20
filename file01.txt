@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-aaa
-=======
-111
-222
-333
-444
->>>>>>> hot-fix
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
